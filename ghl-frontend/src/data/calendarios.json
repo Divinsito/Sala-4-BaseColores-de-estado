@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nombre": "Calendario General", "estado": "Confirmado" },
+  { "id": 2, "nombre": "Calendario Marketing", "estado": "Cancelado" },
+  { "id": 3, "nombre": "Calendario Ventas", "estado": "Reprogramado" },
+  { "id": 4, "nombre": "Calendario RRHH", "estado": "Confirmado" },
+  { "id": 5, "nombre": "Calendario Finanzas", "estado": "Cancelado" }
+]

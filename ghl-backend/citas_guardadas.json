@@ -1,0 +1,14 @@
+[
+    {
+        "id": "BsX24qKAYhM5L5mGnORL",
+        "calendarId": "8K80l6GWLX1njZgS1qRm",
+        "contactId": "rliFI3gKfQ2k0H2Qps4q",
+        "title": "Cita creada desde API",
+        "status": "booked",
+        "appoinmentStatus": "confirmed",
+        "assignedUserId": "ZgzfzRXdlx8Fu4FVLNOt",
+        "address": "",
+        "isRecurring": false,
+        "traceId": "16073e46-74dd-42fa-86ba-e370dae4be5f"
+    }
+]
